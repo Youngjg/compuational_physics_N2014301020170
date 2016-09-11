@@ -12,4 +12,4 @@ Compuational Physics Homework
 - [x] Exercise_12:  [Chapter 4 problem 4.18: The kirkwood gap](https://github.com/Youngjg/computational_physics_N2014301020170)
 - [x] Exercise_13:  [Chapter 5 problem 5.7: The jacobi method v.s. The SOR algorithm](https://github.com/Youngjg/computational_physics_N2014301020170)
 - [x] Exercise_14:  [Chapter 6 problem 6.15: The realistic string problem](https://github.com/Youngjg/computational_physics_N2014301020170)
-- [x] Final Project:  [ 用 用轨道 用轨道能量 用轨道能量分析Kirkwood Gap 的 ](https://github.com/Youngjg/computational_physics_N2014301020170)
+- [x] Final Project:  [用轨道能量分析Kirkwood Gap的缝宽](https://github.com/Youngjg/computational_physics_N2014301020170)
