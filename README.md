@@ -1,6 +1,6 @@
 # computational_physics_N2014301020170
 Computational Physics Homework
-- [x] [Exercise_03: All levels](https://github.com/Youngjg/computational_physics_N2014301020170)
+- [x] [Exercise_03](https://github.com/Youngjg/computational_physics_N2014301020170/blob/master/Exercise%203)
 - [x] [Exercise_04: Chapter 1 problem 1.5 The decay of two kinds of particle](https://github.com/Youngjg/computational_physics_N2014301020170)
 - [x] [Exercise_05: Chapter 1 problem 1.6: Population growth](https://github.com/Youngjg/computational_physics_N2014301020170)
 - [x] [Exercise_06: Chapter 2 problem 2.9 & 2.10: The cannon](https://github.com/Youngjg/computational_physics_N2014301020170)
