@@ -16,6 +16,6 @@
     g = "  ###    #####  #     # #     #  ######  #####  #     # #     #  ######      #    #     # #     #  ###### "
     print(a), print(b), print(c), print(d), print(e), print(f), print(g)
  ###　4.作业执行情况　###
- ![image](computational_physics_N2014301020170/pictures/EX 3.png)
+ ![image](https://github.com/Youngjg/computational_physics_N2014301020170/blob/master/pictures/EX%203.png)
  
  
