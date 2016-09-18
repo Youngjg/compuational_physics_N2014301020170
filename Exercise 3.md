@@ -24,7 +24,8 @@
     g = "  ###    #####  #     # #     #  ######  #####  #     # #     #  ######      #    #     # #     #  ###### "
     print(a), print(b), print(c), print(d), print(e), print(f), print(g)
  
-### 4.作业执行情况 ###
+###　4.作业执行情况 ###
  ![image](https://github.com/Youngjg/computational_physics_N2014301020170/blob/master/pictures/EX%203.png)
- 
+## 四、结论 ##
+本文中使用了python语言，用到了简单的print函数
  
