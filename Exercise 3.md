@@ -8,18 +8,26 @@ EX 3
 ```python
 import os
 i = os.system('cls')
+```
 字符移动可以用在每行前面增加空格的方法实现
+```python
 print("      ###")
 print("     #   ")
 print("     #   ")
 print("     #   ")
 print("      ###")
+```
 字符串变成列表
+```python
 a = "test"
 l = list(a)
+```
 列表变成字符串
+```python
 a = "".join(l)
+```
 ## 三正文 ##
+```python
 import os
 import math
 import time
