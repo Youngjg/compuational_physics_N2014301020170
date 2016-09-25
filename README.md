@@ -2,7 +2,7 @@
 Computational Physics Homework
 - [x] [Exercise_02](https://github.com/Youngjg/computational_physics_N2014301020170/blob/master/Exercise%202.md)
 - [x] [Exercise_03](https://github.com/Youngjg/computational_physics_N2014301020170/blob/master/Exercise%203.md)
-- [] [Exercise_05: Chapter 1 problem 1.6: Population growth](https://github.com/Youngjg/computational_physics_N2014301020170)
+- [ ] [Exercise_05: Chapter 1 problem 1.6: Population growth](https://github.com/Youngjg/computational_physics_N2014301020170)
 - [] [Exercise_06: Chapter 2 problem 2.9 & 2.10: The cannon](https://github.com/Youngjg/computational_physics_N2014301020170)
 - [] [Exercise_07: Chapter 2 problem 2.19: The spin of baseball and Visual motion of baseball](https://github.com/Youngjg/computational_physics_N2014301020170)
 - [] [Exercise_08: Chapter 3 problem 3.4: Non-linear oscillator](https://github.com/Youngjg/computational_physics_N201430170)
