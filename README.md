@@ -6,3 +6,4 @@ Compuational Physics Homework
 ##[第六次作业  作业L1 2.10题强化版](https://www.zybuluo.com/Youngjg/note/542237)
 ##[第七次作业  作业3.12](https://www.zybuluo.com/Youngjg/note/550098)
 ##[第八次作业  作业3.21](https://www.zybuluo.com/Youngjg/note/565804)
+##[第九次作业  作业3.31](https://www.zybuluo.com/Youngjg/note/573473)
