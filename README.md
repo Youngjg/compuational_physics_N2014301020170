@@ -8,4 +8,5 @@ Compuational Physics Homework
 ##[EX8  3.21](https://www.zybuluo.com/Youngjg/note/565804)
 ##[EX9  3.31](https://www.zybuluo.com/Youngjg/note/573473)
 ##[EX10  4.11](https://www.zybuluo.com/Youngjg/note/581358)
+##[EX11  4.18](https://www.zybuluo.com/Youngjg/note/589593)
 
